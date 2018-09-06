@@ -19,7 +19,7 @@ Want to play Dr Mario or Pokémon on your server terminal? That's for you!
 
 ## Why
 
-Some people will ask me: _"Why you did that?"_
+Some people will ask me: _"Why would you did that?"_
 
 Well, a friend asked me _"What PHP can do?"_. I thought about that awhile and
 the idea came up. With PHP7's performance improvement now it's possible to
